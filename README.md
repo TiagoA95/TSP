@@ -2,7 +2,7 @@
 Resolvendo o problema TSP - "Travelling Salesman Problem" utilizando algoritmos "Nearest Neighbour First", "Hill Climbing" e "Simulated Annealing".
 
 
-É de notar que nem todos os algorismos dão uma solução pelas suas naturezas.
+É de notar que nem todos os algorismos não dão uma solução correta (mais um Observações).
 
 
 Grafos gerados aleatóriamente, dados n pontos no intervalo [-m;m].
