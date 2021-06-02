@@ -29,6 +29,7 @@ Verifica-se que a heurística "nearest-neighbour first" nem sempre encontra um p
 
 
 = = = = = = = = = 
+
 Hill Climbing:
 
 Optar por candidato que mais reduz o perimetro) - a estratégia usada é greedy e tenta reduzir o número deiteraçõoes no Hill Climbing. Pela forma como o problema foi definido, os candidatos da vizinhança têm sempre menor perímetro e por isso a solução converge para um polígono simples.
