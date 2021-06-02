@@ -56,3 +56,9 @@ Verifica-se experimentalmente que aplicar as heuríssticas "nearest-neighbour fi
 de solução (número de interseções) muito semelhante.
 
 Comparando o número de iterações para chegar a uma soluçãoao usando Hill Climbing, observa-se que é muito inferior ao número de iteraçõeses no Simula-ted Annealing, no entanto devido à sua natureza "greedy"pode não dar uma solução ótima ou, no pior dos casos, correta sequer.
+
+___________________________________
+
+# Mais sobre TSP
+![image](https://user-images.githubusercontent.com/85238132/120527094-dab7ec80-c3d1-11eb-9686-d425b7dd8087.png)
+
